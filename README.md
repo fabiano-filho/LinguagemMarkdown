@@ -43,8 +43,12 @@ Para criar listas de tarefas usa-se a tag - { } e para marcar tarefa como realiz
 - [ ] Criar a página principal
 - [ ] Finalizar reunião com cliente
 - [x] Receber pagamento
-# Imagens 
+## Imagens 
 Para adicionar imagens dentro de issues, basta arrastar a imagem para dentro do comentário que ela será incorporada.
-# Links
+## Links
 Para links utilize a tag [acesse meu GitHub](https://github.com/fabiano-filho) -> []() onde entre colchetes ficará o texto clicável e em parenteses a URL do site.
-
+## Tabelas
+Para tabelas utilize | e ---, respectivamente para colunas e linhas. Ex:
+Nome | Num | Nota
+---|---|---
+Fabiano | 2 | 9,0
