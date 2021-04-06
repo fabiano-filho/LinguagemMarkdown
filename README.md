@@ -66,6 +66,8 @@ else;
 ```
 # Emojis
 Para utilizar emoji use : :, e entre os dois pontos adicione o código do emoji, [este é o site com os comandos dos emojis.](https://github.com/ikatyang/emoji-cheat-sheet)
-:monkey:
+:monkey: 
 Obs: se estiver com dificuldade para adicionar emojis por comando, utilize o [site emojipedia](https://emojipedia.org/).
-
+# Citações
+Podemos fazer citações utilizando >
+>> Olá mundo
