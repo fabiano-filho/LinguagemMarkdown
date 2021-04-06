@@ -69,5 +69,10 @@ Para utilizar emoji use : :, e entre os dois pontos adicione o código do emoji,
 :monkey: 
 Obs: se estiver com dificuldade para adicionar emojis por comando, utilize o [site emojipedia](https://emojipedia.org/).
 # Citações
-Podemos fazer citações utilizando >
->> Olá mundo
+Podemos fazer citações utilizando > . 
+Como disse **Steve Jobs** uma vez:
+> Decidir o que não fazer é tão
+> importante quanto decidir
+> o que fazer
+Bela frase!
+
