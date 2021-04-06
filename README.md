@@ -3,9 +3,7 @@
 ---
 ## Título
 Para título utilizamos a marca # sem fechamento. De acordo com a quantidade de # pode-se definir o nivel do título, podendo se estender até 6 níveis. Ex:
-# Título
-## Título
-### Título
+
 
 ## Negrito 
 Para tornar a palavra em __negrito__ utilize ** ou __
@@ -40,3 +38,8 @@ Para listas demarcadas utilizaremos o * sem fechamento. Ex:
 * Se alimentar direito
 * Estudar programação e o max de cursos possíveis antes do dia 19.
 Obs: para subitens, segue o mesmo padrão da lista anterior
+### Lista de tarefas
+Para criar listas de tarefas usa-se a tag - { } e para marcar tarefa como realizada - { X }. Ex:
+- {X } Criar a página principal
+- { X} Finalizar reunião com cliente
+- { X} Receber pagamento
