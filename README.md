@@ -3,6 +3,9 @@
 ---
 ## Título
 Para título utilizamos a marca # sem fechamento. De acordo com a quantidade de # pode-se definir o nivel do título, podendo se estender até 6 níveis. Ex:
+# Título
+## Título
+### Título
 
 
 ## Negrito 
