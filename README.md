@@ -42,4 +42,4 @@ Obs: para subitens, segue o mesmo padrão da lista anterior
 Para criar listas de tarefas usa-se a tag - { } e para marcar tarefa como realizada - [x]. Ex:
 - [ ] Criar a página principal
 - [ ] Finalizar reunião com cliente
-- [ ] Receber pagamento
+- [x] Receber pagamento
