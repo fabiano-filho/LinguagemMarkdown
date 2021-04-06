@@ -52,3 +52,19 @@ Para tabelas utilize | e ---, para colunas e linhas, respectivamente. Ex:
 Nome | Num | Nota
 ---|---|---
 Fabiano | 2 | 9,0
+## Comandos
+Para comandos utilize '' aspas. Ex:
+'document.getElementById()'
+Para trechos de comandos utilize ''' (três aspas).
+'''
+n = int(input('Digite um numero: '))
+print('O número digitado foi {}'.format(n))
+if n % 2 == 0;
+    print('O número digitado é PAR')
+else;
+    print('O número digitado é ÍMPAR')
+'''
+# Emojis
+Para utilizar emoji use : : para adicionar. Ex:
+:monkey:
+Obs: se estiver com dificuldade para adicionar emojis por comando, utilize o site emojipedia.
