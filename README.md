@@ -53,17 +53,17 @@ Nome | Num | Nota
 ---|---|---
 Fabiano | 2 | 9,0
 ## Comandos
-Para comandos utilize '' aspas. Ex:
-'document.getElementById()'
-Para trechos de comandos utilize ''' (três aspas).
-'''
+Para comandos utilize `` . Ex:
+`document.getElementById()`
+Para trechos de comandos utilize ```.
+```
 n = int(input('Digite um numero: '))
 print('O número digitado foi {}'.format(n))
 if n % 2 == 0;
     print('O número digitado é PAR')
 else;
     print('O número digitado é ÍMPAR')
-'''
+```
 # Emojis
 Para utilizar emoji use : :, e entre os dois pontos adicione o código do emoji. Ex:
 :monkey:
