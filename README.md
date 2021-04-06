@@ -6,24 +6,23 @@ Para título utilizamos a marca # sem fechamento. De acordo com a quantidade de 
 # Título
 ## Título
 ### Título
-.
---- 
+
 ## Negrito 
 Para tornar a palavra em __negrito__ utilize ** ou __
 OBS: precisar haver abertura e fechamento das marcas.
----
+
 ## Itálico
 Utilizaremos a marca * ou _ para formatar uma palavra em *itálico*
----
+
 ## Texto Riscado
 Usaremos a marca ~~ para ~~texto riscado~~ 
----
+
 ## Linhas Horizontais
 Para criarmos linhas horizontais utilizaremos a marca --- ou ** onde desejamos que ela seja criada.
----
+
 ## Podemos também misturar configurações.
 Exemplo de mistura __*Olá, mundo!*__ 
----
+
 ## Listas
 ### Listas numeradas
 Para listas numeradas basta utilizarmos um numero qualquer seguido de um ponto (1.). Ex:
