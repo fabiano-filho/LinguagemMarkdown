@@ -65,6 +65,7 @@ else;
     print('O número digitado é ÍMPAR')
 ```
 # Emojis
-Para utilizar emoji use : :, e entre os dois pontos adicione o código do emoji. Ex:
+Para utilizar emoji use : :, e entre os dois pontos adicione o código do emoji, [este é o site com os comandos dos emojis.](https://github.com/ikatyang/emoji-cheat-sheet)
 :monkey:
-Obs: se estiver com dificuldade para adicionar emojis por comando, utilize o site emojipedia.
+Obs: se estiver com dificuldade para adicionar emojis por comando, utilize o [site emojipedia](https://emojipedia.org/).
+
