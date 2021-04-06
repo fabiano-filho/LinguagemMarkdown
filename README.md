@@ -40,6 +40,6 @@ Para listas demarcadas utilizaremos o * sem fechamento. Ex:
 Obs: para subitens, segue o mesmo padrão da lista anterior
 ### Lista de tarefas
 Para criar listas de tarefas usa-se a tag - { } e para marcar tarefa como realizada - { X }. Ex:
-- {X } Criar a página principal
-- { X} Finalizar reunião com cliente
-- { X} Receber pagamento
+- { } Criar a página principal
+- { } Finalizar reunião com cliente
+- { } Receber pagamento
